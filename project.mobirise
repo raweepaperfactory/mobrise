@@ -60,10 +60,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -99,7 +99,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -566,7 +566,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -864,7 +864,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1468,7 +1468,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1670,7 +1670,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1857,7 +1857,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2044,7 +2044,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2246,7 +2246,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2448,7 +2448,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2650,7 +2650,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2852,7 +2852,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3054,7 +3054,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3256,7 +3256,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3458,7 +3458,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3660,7 +3660,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3862,7 +3862,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4064,7 +4064,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4285,7 +4285,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
