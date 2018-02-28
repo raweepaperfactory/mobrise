@@ -107,10 +107,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -119,8 +121,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -460,11 +461,11 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
-            "action": "wood89137@gmail.com",
+            "action": "sales@raweepaperfactory.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -486,7 +487,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
@@ -573,10 +574,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -756,7 +759,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -869,10 +872,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1338,7 +1343,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1471,10 +1476,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1508,7 +1515,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1671,10 +1678,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1708,7 +1717,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1856,10 +1865,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1893,7 +1904,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2041,10 +2052,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2078,7 +2091,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2241,10 +2254,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2278,7 +2293,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2441,10 +2456,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2478,7 +2495,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2641,10 +2658,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2678,7 +2697,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2841,10 +2860,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2878,7 +2899,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3041,10 +3062,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3078,7 +3101,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3241,10 +3264,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3278,7 +3303,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3441,10 +3466,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3478,7 +3505,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3641,10 +3668,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3678,7 +3707,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3841,10 +3870,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3878,7 +3909,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -4041,10 +4072,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4078,7 +4111,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -4140,10 +4173,10 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT US<br>",
-          "subtitle": "Factory Address:<br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand. <br><br>To contact us:<br>Tel:+660000000000<br>City: Ayutthaya<br>Province/State: Ayutthaya<br>Country/Region: Thailand<br>Zip: 13210<br>Email: sales@raweepaperfactory.com<br><br>Office Hours <br>Monday - Friday <br>8:30 am to 5:30 pm <br>Saturday &amp; Sunday <br>9:00 am to 3:00 pm",
+          "subtitle": "Factory Address:<br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand. <br><br>To contact us:<br>Tel: +66 82-581-9904<br>City: Ayutthaya<br>Province/State: Ayutthaya<br>Country/Region: Thailand<br>Zip: 13210<br>Email: sales@raweepaperfactory.com<br><br>Office Hours <br>Monday - Friday <br>8:30 am to 5:30 pm <br>Saturday &amp; Sunday <br>9:00 am to 3:00 pm",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
-            "action": "wood89137@gmail.com",
+            "action": "sales@raweepaperfactory.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -4161,11 +4194,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
@@ -4260,10 +4293,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About U.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">DELIVERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page17.html\">CONTACT US</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4297,11 +4332,11 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>2/6 Moo 5, Rojana Industrial Park Rojana Rd.<br>Ayutthaya 13210 Thailand.&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@raweepaperfactory.com<br>\nPhone: +66 82-581-9904<br>\nFax: +66 82-581-9904",
           "text2": "",
           "form": {
             "title": "MESSAGE",
-            "action": "wood89137@gmail.com",
+            "action": "sales@raweepaperfactory.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -4323,7 +4358,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
