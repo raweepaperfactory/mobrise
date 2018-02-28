@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WELCOME TO RAWEE PAPER FACTORY",
-    "currentPage": "page4.html",
+    "currentPage": "About U.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -109,9 +109,10 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
+              "linkInNewWindow": false,
               "active": true
             },
             "iconFont": {
@@ -576,8 +577,8 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
               "active": true
             },
@@ -588,8 +589,7 @@
               "family": "MobiriseIcons",
               "link": "index.html",
               "size": 0,
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -874,10 +874,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -886,8 +887,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -1478,10 +1478,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1680,10 +1681,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1692,8 +1694,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -1867,10 +1868,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1879,8 +1881,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -2054,10 +2055,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2066,8 +2068,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -2256,10 +2257,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2268,8 +2270,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -2458,10 +2459,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2470,8 +2472,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -2660,10 +2661,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2672,8 +2674,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -2862,10 +2863,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2874,8 +2876,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -3064,10 +3065,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3076,8 +3078,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -3266,10 +3267,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3278,8 +3280,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -3468,10 +3469,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3480,8 +3482,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -3670,10 +3671,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3682,8 +3684,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -3872,10 +3873,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3884,8 +3886,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -4074,10 +4075,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4086,8 +4088,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
@@ -4295,10 +4296,11 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ed-244x119.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4307,8 +4309,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RAWEE PAPER FACTORY</a>",
